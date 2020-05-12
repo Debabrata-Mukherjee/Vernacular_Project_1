@@ -1,0 +1,7 @@
+appdirs==1.4.4
+Django==3.0.6
+djangorestframework==3.11.0
+packaging==20.3
+pyparsing==2.4.7
+pytz==2020.1
+six==1.14.0
